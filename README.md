@@ -28,6 +28,12 @@ Céu-Maker is a programming environment that integrates `ceu-arduino` and
     - Open the folder `samples/both/`.
     - Drag & Drop the same file `serial.ceu` into the icon `pico-Céu` (`bin/` folder) and then into the icon `Céu-Arduino` (`bin/` folder).
     - Observe the application behavior.
+    
+
+-------------------------------------------------------------------------------
+## Interesting links
+- [Integrate Visual Studio Code with Céu-Maker (Windows only)](https://github.com/AnnyCaroline/ceu-maker-gsoc/blob/master/VSCode%20with%20C%C3%A9u-Maker/VSCode-with-ceu-maker.md)
+- [Add a new board to Céu-Maker (Windows only)](https://github.com/AnnyCaroline/ceu-maker-gsoc/tree/master/addBoard)
 
 -------------------------------------------------------------------------------
 
